@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/memo-app/static/js/main.5b3ac679.js",
+    "index.html": "/memo-app/index.html",
+    "main.5b3ac679.js.map": "/memo-app/static/js/main.5b3ac679.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5b3ac679.js"
+  ]
+}
